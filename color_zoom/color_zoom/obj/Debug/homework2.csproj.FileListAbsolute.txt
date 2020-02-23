@@ -1,0 +1,10 @@
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.PixelForm.resources
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\josh\Desktop\SPR2020\CS469\homework2\homework2\obj\Debug\homework2.pdb

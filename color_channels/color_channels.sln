@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "color_channels", "color_channels\color_channels.csproj", "{BAE9E498-C086-4312-A237-976E13DB23DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE9E498-C086-4312-A237-976E13DB23DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE9E498-C086-4312-A237-976E13DB23DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE9E498-C086-4312-A237-976E13DB23DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE9E498-C086-4312-A237-976E13DB23DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F250AF-ADBA-4850-AEEA-202D0F0582F9}
+	EndGlobalSection
+EndGlobal

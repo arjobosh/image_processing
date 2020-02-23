@@ -1,0 +1,10 @@
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\bin\Debug\homework3.exe.config
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\bin\Debug\homework3.exe
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\bin\Debug\homework3.pdb
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.csprojAssemblyReference.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.Form1.resources
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.Properties.Resources.resources
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.csproj.GenerateResource.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.exe
+C:\Users\josh\Desktop\SPR2020\CS469\homework3\homework3\obj\Debug\homework3.pdb

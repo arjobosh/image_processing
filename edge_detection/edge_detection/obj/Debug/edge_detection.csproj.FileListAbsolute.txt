@@ -1,0 +1,10 @@
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\bin\Debug\edge_detection.exe.config
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\bin\Debug\edge_detection.exe
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\bin\Debug\edge_detection.pdb
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.csprojAssemblyReference.cache
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\homework3.Form1.resources
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.Properties.Resources.resources
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.csproj.GenerateResource.cache
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.csproj.CoreCompileInputs.cache
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.exe
+C:\Users\josh\Documents\image_processing\edge_detection\edge_detection\obj\Debug\edge_detection.pdb

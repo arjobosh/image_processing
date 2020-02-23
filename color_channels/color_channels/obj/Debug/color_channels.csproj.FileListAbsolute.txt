@@ -1,0 +1,10 @@
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\bin\Debug\color_channels.exe.config
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\bin\Debug\color_channels.exe
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\bin\Debug\color_channels.pdb
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.csprojAssemblyReference.cache
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\homework1.Form1.resources
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.Properties.Resources.resources
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.csproj.GenerateResource.cache
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.csproj.CoreCompileInputs.cache
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.exe
+C:\Users\josh\Documents\image_processing\color_channels\color_channels\obj\Debug\color_channels.pdb
